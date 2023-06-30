@@ -1,23 +1,42 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: 
+- Fernanda Palacios Martinez
+- Camila Naranjo
+- Pierre Johnson
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+Spotify users face choice paralysis and disstractions in the app. We will offer a streamlined way for users to combine a productive task manager and easy music listening with custom playlists.
 
 ## Description
 
-What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+Offers a task manager integrated with users' Spotify profile that helps users keep focus while managing their tasks throughout the day.
+
+### Target Users
+- students
+- homemakers
+- remote workers
+- developers
 
 ## Expected Features List
 
-Add a list of your groups's brainstormed features list
+- Provide music suggestions based on user input
+- Task manager
+- Externally available API
+- Spotify OAuth
+- User profile
+
+## Stretch Features
+
+- Dynamically create playlists based on activities and tasks
+- Connect and share music
 
 ## Related Work
 
-What similar apps and websites? How will your project stand out from these other websites?
+Spotify: This application will extend the features offered by the Spotify API.
 
 ## Open Questions
 
-What questions do you still have? What topics do you need to research more for your project?
+- Look into Spotify API documentation
+- Look into ChatGPT API doumentation
