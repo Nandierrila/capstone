@@ -35,7 +35,7 @@ Our goal is to develop a web application that not only assists users in managing
    - An unregistered user who is interested in the site and wants to explore its features. They are offered a demo showcasing the app's productivity features and prompted to link or sign up for a Spotify account.
 
 2. "Taskmaster"
-   - A user who wants to add a task quickly and easily. They are offered a task manager feature that is front and center, providing a quick and intuitive path to add tasks, along with a feature to estimate the task duration.
+   - A user who wants to add a task quickly and easily. They are offered a task manager feature that is front and center, providing a quick and intuitive path to add tasks, along with a feature to set the task duration.
 
 3. "Routine Keeper"
    - A user with similar tasks each day. They are given the ability to save tasks to a category or template, enabling them to replicate their routine efficiently.
