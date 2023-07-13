@@ -51,7 +51,16 @@ Our goal is to develop a web application that not only assists users in managing
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+Pages
+1. About/Login
+2. Dashboard
+
+Screens
+1. About/Login
+2. Dashboard- Plan Mode
+3. Dashboard- Do Mode
+
+https://www.figma.com/file/4xIBmmPiE2KZUFhtLIp8pA/Task.ify?type=design&node-id=0%3A1&mode=design&t=tkh1sVHCqL5GSqLE-1
 
 ## Data Model
 
@@ -59,6 +68,10 @@ Describe your app's data model using diagrams or tables
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+1. POST Spotify OAuth
+2. GET getTasks
+3. POST postTask
+4. PUT putTask
+5. POST genPlaylist
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
