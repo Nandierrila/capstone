@@ -32,22 +32,22 @@ Our goal is to develop a web application that not only assists users in managing
 
 ## User Stories
 
-1. "The Curious Visitor"
+1. "The Curious Visitor" (1)
    - An unregistered user who is interested in the site and wants to explore its features. They are offered a demo showcasing the app's productivity features and prompted to link or sign up for a Spotify account.
 
-2. "Taskmaster"
+2. "Taskmaster" (2)
    - A user who wants to add a task quickly and easily. They are offered a task manager feature that is front and center, providing a quick and intuitive path to add tasks, along with a feature to estimate the task duration.
 
-3. "Routine Keeper"
+3. "Routine Keeper" (5)
    - A user with similar tasks each day. They are given the ability to save tasks to a category or template, enabling them to replicate their routine efficiently.
 
-4. "Time Tracker"
+4. "Time Tracker" (3)
    - A user who starts a task by setting a timer. Their mood is selected, and appropriate music starts to play as the countdown begins.
 
-5. "Task Terminator"
+5. "Task Terminator" (6)
     - A user who completes a task and wants to check it off. They are allowed to mark the task as complete, rewarded with a satisfying animation.
 
-6. "Distracted Doer"
+6. "Distracted Doer" (4)
     - A user who easily gets distracted. They are encouraged to focus on their task by not allowing them to change the music once a task has started.
 
 
