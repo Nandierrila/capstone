@@ -2,25 +2,25 @@
 
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2023**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Camila Naranjo, Pierre Johnson, Maria Palacios Martinez**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Nilesh Patel, Ryan Warnock, Samuel Paramar**
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
-* [Backend Repo Link]()
+* [Frontend Repo Link](https://github.com/Takeoff-Tec/task.ify-frontend)
+* [Backend Repo Link](https://github.com/Takeoff-Tec/task.ify-backend)
 
 ## Project Overview
 
 Add a quick summary of what your project theme and objectives are. 
 
-Deployment Website: **Add Link to Deployed Project**
+Deployment Website: **https://taskify-frontendhost-2277661894f3.herokuapp.com/**
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+
