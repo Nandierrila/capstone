@@ -54,4 +54,4 @@ Our goal is to develop a web application that not only assists users in managing
 
 ## Wireframe (Bonus)
 
-Insert link or image to your group's wireframe. 
+https://www.figma.com/file/4xIBmmPiE2KZUFhtLIp8pA/Task.ify?type=design&node-id=0%3A1&mode=design&t=tkh1sVHCqL5GSqLE-1
